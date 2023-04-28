@@ -1,0 +1,28 @@
+{
+  "gameData": [
+    {
+      "health": 12,
+      "name": "Knight",
+      "sprite": "Sprites/knight",
+      "weapon": "Sword",
+      "effect": "None",
+      "description": "Hearty and noble. Starts with a sword",
+      "upgradeCosts": [ 250, 500, 1000, 2000 ],
+      "weaponFilter": [],
+      "itemFilter": [],
+      "precedence": 0
+    },
+    {
+      "health": 8,
+      "name": "Rogue",
+      "sprite": "Sprites/rogue",
+      "weapon": "Vampiric Sword",
+      "effect": "Rogue",
+      "description": "Crafty, but fragile. Starts with a vampiric sword.",
+      "upgradeCosts": [ 250, 500, 1000, 2000 ],
+      "weaponFilter": [ "Vampiric Sword" ],
+      "itemFilter": [],
+      "precedence": 1
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+    "gameData": [
+        {
+            "name": "Sword",
+            "value": 6,
+            "valueDeviance": [0,3],
+            "effect": "None",
+            "rarity": 1,
+            "sprite": "Sprites/sword",
+            "soundPrefix": "sword_hit"
+        },
+        {
+            "name": "Wooden Sword",
+            "value": 4,
+            "valueDeviance": [0,3],
+            "effect": "None",
+            "rarity": 1,
+            "sprite": "Sprites/sword_wooden",
+            "soundPrefix": "sword_hit"
+        },
+        {
+            "name": "Dagger",
+            "value": 7,
+            "valueDeviance": [0,2],
+            "effect": "None",
+            "rarity": 2,
+            "sprite": "Sprites/dagger",
+            "soundPrefix": "sword_hit"
+        },
+        {
+            "name": "Wooden Dagger",
+            "value": 5,
+            "valueDeviance": [1,3],
+            "effect": "None",
+            "rarity": 1,
+            "sprite": "Sprites/dagger_wooden",
+            "soundPrefix": "sword_hit"
+        },
+        {
+            "name": "Gold Sword",
+            "value": 8,
+            "valueDeviance": [1,3],
+            "effect": "Gold",
+            "rarity": 2,
+            "sprite": "Sprites/sword_gold",
+            "soundPrefix": "sword_hit"
+        },
+        {
+            "name": "Vampiric Sword",
+            "value": 6,
+            "valueDeviance": [1,5],
+            "effect": "Leech",
+            "rarity": 2,
+            "sprite": "Sprites/sword_leech",
+            "soundPrefix": "sword_hit"
+        }
+
+    ]
+}

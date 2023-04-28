@@ -1,0 +1,25 @@
+{
+  "gameData": [
+    {
+      "name": "Health Potion",
+      "value": "5",
+      "effect": "Heal",
+      "rarity": 1,
+      "sprite": "Sprites/healthPotion"
+    },
+    {
+      "name": "Coin",
+      "value": "1",
+      "effect": "Coin",
+      "rarity": 1,
+      "sprite": "Sprites/coin"
+    },
+    {
+      "name": "Chest",
+      "value": "1",
+      "effect": "Chest",
+      "rarity": 1,
+      "sprite": "Sprites/chest"
+    }
+  ]
+}

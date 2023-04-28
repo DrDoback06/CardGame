@@ -1,0 +1,82 @@
+{
+  "gameData": [
+    {
+      "health": 0,
+      "healthDeviance": [ 0, 1 ],
+      "name": "Imp",
+      "tier": 0,
+      "sprite": "Sprites/imp"
+    },
+    {
+      "health": 0,
+      "healthDeviance": [ 0, 1 ],
+      "name": "Goblin",
+      "tier": 0,
+      "sprite": "Sprites/goblin"
+    },
+    {
+      "health": 0,
+      "healthDeviance": [ 1, 2 ],
+      "name": "Goblin",
+      "tier": 0,
+      "sprite": "Sprites/goblin"
+    },
+    {
+      "health": 1,
+      "healthDeviance": [ 0, 2 ],
+      "name": "Lesser Demon",
+      "tier": 0,
+      "sprite": "Sprites/lesser_demon"
+    },
+    {
+      "health": 2,
+      "healthDeviance": [ 1, 3 ],
+      "name": "Ogre",
+      "tier": 1,
+      "sprite": "Sprites/ogre"
+    },
+    {
+      "health": 3,
+      "healthDeviance": [ 1, 5 ],
+      "name": "Lesser Demon",
+      "tier": 1,
+      "sprite": "Sprites/lesser_demon"
+    },
+    {
+      "health": 2,
+      "healthDeviance": [ 1, 2 ],
+      "name": "Imp",
+      "tier": 1,
+      "sprite": "Sprites/imp"
+    },
+    {
+      "health": 3,
+      "healthDeviance": [ 1, 3 ],
+      "name": "Ice Zombie",
+      "tier": 1,
+      "sprite": "Sprites/ice_zombie"
+    },
+    {
+      "health": 6,
+      "healthDeviance": [ 2, 5 ],
+      "name": "Greater Demon",
+      "tier": 2,
+      "sprite": "Sprites/big_demon"
+    },
+    {
+      "health": 4,
+      "healthDeviance": [ 2, 4 ],
+      "name": "Ogre",
+      "tier": 2,
+      "sprite": "Sprites/ogre"
+    },
+    {
+      "health": 0,
+      "healthDeviance": [ 0, 0 ],
+      "name": "Chest",
+      "tier": -1,
+      "sprite": "Sprites/chest"
+    }
+
+  ]
+}
